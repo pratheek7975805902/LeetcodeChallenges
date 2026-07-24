@@ -26,7 +26,8 @@ This repository is automatically updated whenever I solve new problems on LeetCo
 
 Currently solving problems in:
 
-* Java * SQL
+* Java
+* SQL
 
 *(More languages may be added in the future.)*
 
