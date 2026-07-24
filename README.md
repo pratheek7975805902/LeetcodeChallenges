@@ -72,4 +72,8 @@ If you find this repository helpful or want to follow my coding journey, feel fr
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0242-valid-anagram) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
