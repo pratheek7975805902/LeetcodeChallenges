@@ -57,3 +57,19 @@ This repository is primarily for documenting my learning journey. Suggestions, i
 ## ⭐ Thanks for Visiting!
 
 If you find this repository helpful or want to follow my coding journey, feel free to **star** the repository.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0242-valid-anagram) |
+<!---LeetCode Topics End-->
