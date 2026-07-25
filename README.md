@@ -76,5 +76,6 @@ If you find this repository helpful or want to follow my coding journey, feel fr
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
