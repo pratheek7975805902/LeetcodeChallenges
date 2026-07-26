@@ -64,6 +64,7 @@ If you find this repository helpful or want to follow my coding journey, feel fr
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0242-valid-anagram) |
 ## String
@@ -83,6 +84,7 @@ If you find this repository helpful or want to follow my coding journey, feel fr
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
