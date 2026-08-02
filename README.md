@@ -66,10 +66,12 @@ If you find this repository helpful or want to follow my coding journey, feel fr
 | ------- |
 | [0001-two-sum](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pratheek7975805902/LeetcodeChallenges/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
